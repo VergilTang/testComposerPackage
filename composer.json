@@ -1,5 +1,5 @@
 {
-    "name" : "VergilTang/testComposerPackage",
+    "name" : "vergil-tang/test-composer-package",
     "require": {
         "monolog/monolog": "1.0.*"
     },
